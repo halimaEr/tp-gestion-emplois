@@ -6,6 +6,7 @@ npm install
 
 ```
 ###  Comunicate with the server 
+```
 npx json-server --watch src/4-TP-Jobs-app.json 
 
 ```
