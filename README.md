@@ -4,9 +4,10 @@
 ```
 npm install
 
-###  Comunicate with the server 
 ```
-npx json-server --watch src/4-TP-Jobs-app.json  
+###  Comunicate with the server 
+npx json-server --watch src/4-TP-Jobs-app.json 
+
 ```
 
 ### Compiles and hot-reloads for development
